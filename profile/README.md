@@ -1,6 +1,6 @@
 # QUASAR: Quad-based Adaptive Streaming And Rendering
 
-Edward Lu and Anthony Rowe
+[Edward Lu](https://users.ece.cmu.edu/~elu2/) and [Anthony Rowe](https://users.ece.cmu.edu/~agr/)
 
 *ACM Transactions on Graphics, 44(4) (proc. SIGGRAPH 2025)*
 
